@@ -29,6 +29,7 @@
         .right {
             flex: 1;
             text-align: center;
+            perspective: 1000px; /* Added perspective */
         }
         h1 {
             margin-top: 0;
@@ -54,6 +55,11 @@
         img {
             max-width: 100%;
             border-radius: 10px;
+            transform: rotateY(-15deg) rotateX(5deg); /* Added 3D rotation */
+            transition: transform 0.3s; /* Smooth transition for rotation */
+        }
+        img:hover {
+            transform: rotateY(0deg) rotateX(0deg); /* Reset rotation on hover */
         }
     </style>
 </head>
