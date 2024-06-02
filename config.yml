@@ -1,0 +1,11 @@
+#MCElevate{@-1.2}{@-Default}{@-true}
+mcversion '1.20.80,1.20.81,1.20.82,1.20.83,1.20.84'
+developermode 'false'
+## Required to toggle developermode
+developerkey ''
+
+credits 'HIVE BYPASS[BallindiTools],CUBECRAFT BYPASS[BallindiTools],NETHERGAMES BYPASS[HondaYounger],KILLAURA[Ackilo],DAMAGEFLY[Shadoways]'
+create_backup 'true'
+detectstream 'true'
+
+command_prefix '!'
