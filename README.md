@@ -14,4 +14,4 @@ MCElevate is a powerful utility mod for Minecraft Bedrock Edition, enhancing you
 - **CUBECRAFT BYPASS** - BallindiTools
 - **NETHERGAMES BYPASS** - HondaYounger
 - **KILLAURA** - Ackilo
-- **DAMAGEFLY** - Shadoway
+- **DAMAGEFLY** - Shadoways
